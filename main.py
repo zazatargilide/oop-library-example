@@ -1,1 +1,5 @@
-print('Hello from the Library project')
+class Library:
+    pass
+
+class Book:
+    pass 
